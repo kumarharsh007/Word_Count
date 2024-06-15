@@ -15,4 +15,4 @@ This Python program counts the occurrences of each word in a given text file.
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/word-count-program.git
+   git clone https://github.com/kumarharsh007/Word_Count.git
